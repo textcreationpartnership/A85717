@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Grimston his learned speech in the high court of Parliament: concerning troubles abroad, and grievances at home. Shewing the inward symptomes and causes of all our feares and dangers, and what probability there is of reformation, in case due punishment be speedily executed on the incendiaries and chiefe causers of those distractions that have opprest our church and common-wealth.</title>
+            <author>Grimston, Harbottle, Sir, 1603-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85717</idno>
+            <idno type="STC">Wing G2031</idno>
+            <idno type="STC">Thomason E128_12</idno>
+            <idno type="STC">ESTC R23011</idno>
+            <idno type="EEBO-CITATION">99871891</idno>
+            <idno type="PROQUEST">99871891</idno>
+            <idno type="VID">156239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156239)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Grimston his learned speech in the high court of Parliament: concerning troubles abroad, and grievances at home. Shewing the inward symptomes and causes of all our feares and dangers, and what probability there is of reformation, in case due punishment be speedily executed on the incendiaries and chiefe causers of those distractions that have opprest our church and common-wealth.</title>
+                  <author>Grimston, Harbottle, Sir, 1603-1685.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Novemb. 25. Printed for T. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156239:1" rendition="simple:additions"/>
+            <p>
+               <hi>M<hi rend="sup">r</hi>. GRIMSTON HIS LEARNED SPEECH IN THE High Court of PARLIAMENT:</hi> CONCERNING <hi>Troubles abroad, and Grievances at home.</hi>
+            </p>
+            <p>
+               <hi>SHEWING</hi> The inward Symptomes and Cauſes of all our Feares and Dangers, and what probability there is of Reformation, in caſe due puniſhment be ſpeedily executed on the Incendiaries and chiefe Cauſers of thoſe diſtractions that have oppreſt our Church and Common-Wealth.</p>
+            <p>LONDON, Novemb. <hi>25. Printed for</hi> T. Wright. <hi>1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:156239:2"/>
+            <pb n="1" facs="tcp:156239:2"/>
+            <head>M. GRIMSTON <hi>HIS</hi> LEARNED SPEECH <hi>IN</hi> PARLIAMENT.</head>
+            <opener>
+               <salute>M. Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath now a great and weighty buſineſſe beene preſented to this Houſe, and a Letter hath beene read, importing a deciſion of the Kings naturall Subjects.</p>
+            <p>
+               <hi>M. Speaker,</hi> this is a great caſe, and very worthy of the conſide<g ref="char:EOLhyphen"/>ration and advertiſement of this great Councell; but I am very much miſtaken, if there be not a caſe here at home, of as great a danger as that now put to be abroad; the one ſtands without the doore (for ſo dan<g ref="char:EOLhyphen"/>gers from thence, in all our hiſtories, have ever beene termed:) but the caſe that I would put is a caſe of danger already upon our backs.</p>
+            <p>
+               <pb n="2" facs="tcp:156239:3"/>And in thoſe great caſes of danger, which ſo much concerne the welfare of the Body Politique, we ought to do in them like skilfull Phyſitians, that are not led in their judgments ſo much by the outward expreſſi<g ref="char:EOLhyphen"/>ons of a diſeaſe, as by the inward Symptomes and cauſes of it. For it fares with a body politique, as it doth with a body naturall: It is impoſſible to cure an ulcerous body, unleſſe you firſt cleanſe the veines, and purge the body from thoſe obſtructions, and peſti<g ref="char:EOLhyphen"/>lentiall humours that overcharge Nature, and being once done too, botches, blaines, and ſcabs, that grew upon the ſuperficies and out-ſide of the body, dry up, ſhed, and fall away of themſelves.</p>
+            <p>Mr. <hi>Speaker,</hi> the danger that hath now beene pre<g ref="char:EOLhyphen"/>ſented to the Houſe, it ſtandeth at a farre diſtance, and I wiſh heartily, that it were further off; yet as it ſtands at a far diſtance, it is ſo much the leſſe dange<g ref="char:EOLhyphen"/>rous. But the caſe that I ſhall put, is a caſe of great danger here at home, domeſtique: and therefore ſo much the more dangerous, becauſe it is home-bred, and runs in the veines.</p>
+            <p>And, Mr. <hi>Speaker,</hi> if the one ſhall appeare, to be of as great danger, as the other, I hope it will not bee thought unreaſonable this time, to put the one aſwell as the other; And the caſe that I would put is this.</p>
+            <p>The Charter of our liberties called <hi>Magna Charta,</hi> was granted unto us by King <hi>John</hi>; which was but a renovation and a reſtetution of the ancient Laws of this Kingdome. This Charter was afterwards in the
+<pb n="3" facs="tcp:156239:3"/>
+ſucceſſion of ſeverall ages, confirmed unto us above 30 times, and in the 3 year of his Majeſties reigne that now is we had no more then a bare confirmati<g ref="char:EOLhyphen"/>on of it. For we had an Act declaratory paſt, and then to put it out of queſtion and diſpute for the future, his Majeſty by his gratious anſwer <hi>Soit droit comme eſt deſire,</hi> inveſted it with the title of Petition of right.</p>
+            <p>Mr. <hi>Speaker,</hi>
+            </p>
+            <p>It may be ſome may object. <hi>Parturiunt montes, &amp;c.</hi> I promiſed to preſent the Houſe with a caſe of very great danger here at home, but the Mountaine hath brought forth nothing but a Mouſe; That this caſe is not worthy the name of a caſe, and ſo not worthy the putting.</p>
+            <p>And truly, for mine owne part, I ſhould have bin of the ſame opinion (had not ſome expoſitors, contrary to the Lawes of God, and Man, and reaſon, and I am ſure contrary to the <hi>Dictamen</hi> of their own Conſciences) marred the text with their expoſiti<g ref="char:EOLhyphen"/>ons, undermining the liberty of the Subjects, with new invented ſubtile diſtinctions, and aſſuming to themſelves a power (I know not where they had it) out of <hi>PARLIAMENT,</hi> to ſupercede, anni<g ref="char:EOLhyphen"/>hilate and to make void the Lawes of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>What ſad effects theſe wayes and opinions have produced, I am confident, His Majeſty hath neither ſeene nor heard, as we have felt them. And it is now his Majeſties goodneſſe and Piety, to give us leave to ſpeake them, and to preſent them with our Greevan<g ref="char:EOLhyphen"/>ces, which are not few.</p>
+            <p>
+               <pb n="4" facs="tcp:156239:4"/>Mr. <hi>Speaker,</hi> the Common-wealth hath bin miſe<g ref="char:EOLhyphen"/>rably torne and macerated, and all the proprieties, and liberties ſhaken: the Church diſtracted, the Goſ<g ref="char:EOLhyphen"/>pell and Profeſſors of it perſecuted, and the whole Kingdome over-run with Multitudes, and ſwarmes of projecting Cater-wormes, and Caterpillars, the worſt of all the Egyptian Plagues.</p>
+            <p>Then as the caſe now ſtands with us, I conceive there are two points very conſiderable.</p>
+            <p>
+               <hi>The firſt is, what hath bin done any way to impeach the Liberty of the Subject, contrary to the Petition of Right.</hi>
+            </p>
+            <p>
+               <hi>The ſecond is, who have bin the Authors and Cauſers of it.</hi>
+            </p>
+            <p>Mr. <hi>Speaker,</hi> the ſerious examination and deciſion of thoſe two queſtions, do highly concerne his Ma<g ref="char:EOLhyphen"/>jeſty in the point of Honour, and his Subjects in the point of Intereſt: and all that I ſhall ſay to it is but the words that <hi>Ezra</hi> did to King <hi>Artaxerxes,</hi> to the ſetlement of that State, which at that time was as much out of order, as ours is at this preſent; and which cured theirs, I hope will cure ours. His words were theſe.</p>
+            <p>
+               <hi>Whoſoever hath not done the Law of God, and the Law of the King, let judgement be ſpeedely executed upon him, whether it be unto death, or unto baniſhment, or unto Con<g ref="char:EOLhyphen"/>fiſcation of goods, or to Impriſonment.</hi>
+            </p>
+            <p>Now <hi>M. Speaker,</hi> it may be ſome do thinke this a ſtrange text, and is it poſſible! Some may thinke it as ſtrange a caſe. As for the text, every man may read it, that will. And for the caſe, I am afraid there are but few here, which do not experementally know it,
+<pb n="5" facs="tcp:156239:4"/>
+to be as bad as I have put it: And how to mend a bad caſe, is part of the buſines we met about. His Ma<g ref="char:EOLhyphen"/>jeſty hath graciouſly confirmed unto us, our great and ancient Priviledge of Freedome of Speech: and have<g ref="char:EOLhyphen"/>ing his Kingly word for it, I ſhall reſt confidently upon it, as the greateſt ſecurity under heaven. And whilſt I have the honour to have a place here, I ſhall with humility be bound to expreſſe my ſelfe as a Free-man.</p>
+            <p>The Diſeaſes and Diſtempers that are now in our body politique, are grown to that height, that they pray for, and importune a Cure. And his Majeſty out of his tender care, and Affection, to his people, like a nurſing Father, hath now offered himſelfe to heare our prayers and Complaints.</p>
+            <p>
+               <hi>Mr. Speaker,</hi>
+            </p>
+            <p>We cannot complaine that we want good Lawes, for the wit of man cannot invent better then are al<g ref="char:EOLhyphen"/>ready made; There want only ſome Examples, that ſuch as have bin the authors, and cauſers of all miſe<g ref="char:EOLhyphen"/>ries and diſtractions in the Church and Common<g ref="char:EOLhyphen"/>wealth, contrary to thoſe good Laws which be like Treakle to expell the poyſon of miſcheife out of o<g ref="char:EOLhyphen"/>thers.</p>
+            <p>But my part is but <hi>Oſtendere Portam,</hi> and therefore having put the Caſe, I muſt leave it to the judgment of this Houſe, whether our dangers here at home be not as great and conſiderable, as that which was even now preſented.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="6" facs="tcp:156239:5"/>
+            <head>An Order from both Houſes of Parliament for regulating of the Army.</head>
+            <p>WHereas there have been diverſe Complaints made unto us of many diſorders committed by the Souldi<g ref="char:EOLhyphen"/>ers in their marching, and in ſuch places wherein they have been quartered or billeted, which diſorders (as is in<g ref="char:EOLhyphen"/>formed) have been partly occaſioned by the neglect of their Officers to goe along with them and conduct them: It is there<g ref="char:EOLhyphen"/>fore Ordered by the Lords and Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that the Lord Generall be deſired to give Command to all his Officers, that they take care to attend according to the du<g ref="char:EOLhyphen"/>ty of their ſeverall places, that the Souldiers thereby may be hereafter kept from ſtragling up and downe the Countreyes: And to that end to lay his Command upon the Officers of each Company, both in the Marching, Quartering, and Billeting, to be in Perſon amongſt the Souldiers themſelves, to prevent any diſorders whatſoever, and puniſh ſuch as ſhall offend.</p>
+            <closer>
+               <signed>Joh. Brown Cleric. Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
